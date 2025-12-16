@@ -1,0 +1,5 @@
+review,Sentiment,Emotion
+"I love this product, it's amazing!",Positive,Happy
+"Worst experience ever, totally disappointed",Negative,Angry
+"The quality is okay, nothing special",Negative,Satisfied
+"I hate this, waste of money",Negative,Sad
